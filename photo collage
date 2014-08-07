@@ -2,7 +2,7 @@ import json
 from urllib2 import urlopen
 
 
-fp = open("554638731307934_group_members.txt")
+fp = open("promotia95collage.txt")
 data = json.loads(fp.read())
 fp.close()
 
